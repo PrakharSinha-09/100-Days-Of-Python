@@ -12,12 +12,12 @@ If You liked the content do give this repo a star and share with your friends wh
 Wanna Contribute in terms of code or non-code ?
 Follow the steps :
 
-Fork this repo
-Clone into your local system 
-make changes 
-push
-generate a pull request
-i'll merge it! 
+->Fork this repo
+->Clone into your local system 
+->Make changes 
+->Push
+->Generate a Pull Request
+->I'll merge it! 
 
 NOTE : Don't forget to give it a star if you want your contribution to merge.
 
