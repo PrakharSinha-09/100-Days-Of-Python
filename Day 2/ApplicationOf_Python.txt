@@ -1,0 +1,8 @@
+Applications Of Python :
+
+Python is used in Data Visualization to create plots and graphical representations.
+Python helps in Data Analytics to analyze and understand raw data for insights and trends.
+Python is used in AI and Machine Learning to simulate human behavior and to learn from past data without hard coding.
+Python is used to create web applications.
+Python can be used to handle databases.
+Python is used in business and accounting to perform complex mathematical operations along with quantitative and qualitative analysis.
