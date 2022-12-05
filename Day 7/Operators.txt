@@ -16,7 +16,7 @@ Bitwise operators
 Python Arithmetic Operators
 Arithmetic operators are used with numeric values to perform common mathematical operations:
 
-Operator	Name	Example	Try it
+Operator	Name	Example
 +	Addition	x + y	
 -	Subtraction	x - y	
 *	Multiplication	x * y	
@@ -67,7 +67,7 @@ Python Identity Operators
 Identity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:
 
 is 	Returns True if both variables are the same object	x is y	
-is not	Returns True if both variables are not the same object	x is not y	
+is not	Returns True if both variables are not the same o   bject	x is not y	
 
 
 Python Membership Operators
