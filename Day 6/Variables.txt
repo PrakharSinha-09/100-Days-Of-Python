@@ -3,6 +3,6 @@ Variable is like a container that holds data. Very similar to how our containers
 
 a = 1
 b = True
-c = "Harry"
+c = "Prakhar"
 d = None
 These are four variables of different data types.
