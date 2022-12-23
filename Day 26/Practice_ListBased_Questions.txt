@@ -1,0 +1,17 @@
+Here is some questions, that we are required to do using lists...Let Us Dedicate this day for solving some questions...Lets Go!🚀
+
+Q1- Program to check if the Given List is in Ascending Order or Not
+
+Q2- Program to Find Even Numbers From a List
+
+Q3- Program to Merge Two Lists
+
+Q4- Interchange First and Last Element of a List 
+
+Q5- Program to Subtract a List from Another List
+
+Q6- Program to Get Data Items From a List Appearing Odd Number of Times
+
+
+
+📌Try On Your Own First!
