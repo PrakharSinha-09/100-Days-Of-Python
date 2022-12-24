@@ -1,0 +1,11 @@
+Q1- Reverse the tuple
+
+Q2- Access value 20 from the tuple
+
+Q3- Create a tuple with single item 50
+
+Q4- Unpack the tuple into 4 variables
+
+Q5- Swap two tuples in Python
+
+Q6-  Check if all items in the tuple are the same
