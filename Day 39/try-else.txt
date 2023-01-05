@@ -1,0 +1,4 @@
+The else clause is executed if and only if no exception is raised. 
+This is different from the finally clause that’s always executed.
+
+else: Code in the else block is only executed if no exceptions were raised in the try block.
