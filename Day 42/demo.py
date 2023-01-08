@@ -11,3 +11,10 @@ for index, elem in enumerate(lis, start=1):                #we can specify the i
   print(elem)
   if(index == 3):
     print("Hey!")
+    
+
+# The enumerate() function takes a collection (e.g. a tuple) and returns it as an enumerate object.
+# The enumerate() function adds a counter as the key of the enumerate object.
+x = ('apple', 'banana', 'cherry')
+y = enumerate(x)
+print(list(y))
