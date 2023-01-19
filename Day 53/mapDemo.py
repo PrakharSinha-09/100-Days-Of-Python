@@ -12,6 +12,7 @@ for item in ls:
 
 print(lst)
 
-#Via Map
+#Via Map...here map object is returned which can further by typecasted into lists or tuple or any iterable
+lst1=tuple(map(cube,ls))
 lst1=list(map(cube,ls))
 print(lst1)
