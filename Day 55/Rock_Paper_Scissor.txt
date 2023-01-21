@@ -1,0 +1,7 @@
+We are going to implement Rock Paper & Scissor as usually it is played b/w 2 players..We will implement something like that
+b/w a CPU & user You Might be aware of the rules, means when a player is considered a winner..Right ?
+
+So Lets Go & implement it!
+
+#There Could Be Many Ways to write up the implementation, I've Chosen the simplest one!
+
