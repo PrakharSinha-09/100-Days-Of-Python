@@ -1,0 +1,4 @@
+📌Public Access Modifier
+
+👉All the variables and methods (member functions) in python are by default public. Any instance variable in a class followed by the ‘self’ keyword ie. self.var_name are public accessed.
+
