@@ -1,0 +1,19 @@
+👉Static methods in Python are methods that belong to a class rather than an instance of the class. They are defined using the 👉@staticmethod👈 decorator and do not have access to the instance of the class (i.e. self). They are called on the class itself, not on an instance of the class. Static methods are often used to create utility functions that don't need access to instance data.
+
+class Math:
+    @staticmethod
+    def add(a, b):                    
+        return a + b
+
+result = Math.add(1, 2)
+print(result) # Output: 3
+
+In this example, the add method is a static method of the Math class. It takes two parameters a and b and returns their sum. The method can be called on the class itself, without the need to create an instance of the class.
+
+
+
+🔥Noticed one Thing, that here while creating the methods, we are not using self keyword, it is because it is a static method, which doesn't have anything to do with the instance of the class...static methods directly associates with the class.
+#So, Remember One Thing that we can create methods without self keyword too as long as it is a static method...and this is one of the very important interview question too!
+
+🎯Interviewer Might Ask you is it possible to create methods in python without passing self as an argument in the methods ?
+So, the answer is YES, if we create that method as a static method
