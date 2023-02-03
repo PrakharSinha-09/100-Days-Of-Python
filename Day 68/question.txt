@@ -1,0 +1,10 @@
+Write a program to clear the clutter inside a folder on your computer. You should use os module to rename all the txt files from 1.txt all the way till n.txt where n is the number of txt files in that folder. Do the same for other file formats. 
+
+For example: 
+sf.txt --> 1.txt
+vfsf.txt --> 2.txt 
+this.txt --> 3.txt 
+design.txt --> 4.txt 
+name.txt --> 5.txt
+
+In My CodeBase, i've changed the names of file having extension .txt
